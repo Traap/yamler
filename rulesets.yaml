@@ -1,0 +1,17 @@
+drugs:
+  - name: Dobutimine
+    concentration:
+    - dosing amount: 25
+      dosing unit: mcg
+      diluent amount: 500
+      diluent unit: mL
+
+ruleset:
+  - name: Basic
+    limits:
+      - hard lower limit: 0.1
+        soft lower limit: 0.2
+        soft upper limit: 1.0
+        hard upper limit: 1.2
+        override soft: true
+        override hard: false

@@ -1,0 +1,48 @@
+publication:
+- author: Yukinhiro Matsumoto
+  books: 
+  - title: Ruby in a Nutshell
+    isbn: 0-596-00214-9
+    date: 1993-12-26
+  
+  - title: Ruby in a Nutshell, 2nd Edition 
+    isbn: 0-596-00214-9a
+    date: 1994-02-18
+  
+  articles:
+  - title: Why Ask Why?
+    date: 1996-01-08
+    
+  email:
+  - title: I have a cool progamming language idea.  Check it out! 
+    date: 1993-01-08
+    
+- author: Zed A. Shaw
+  books:
+  - title: Learn Ruby The Hard Way
+    isbn: 978-0321884992 
+    date: 2013-01-11
+
+  - title: Learn Ruby The Hard Way, 3rd Edition
+    isbn: 978-0321884992c
+    date: 2017-06-01
+
+  - email: 
+    subject: Are you kidding me?
+    date: 2017-07-14
+
+  - email: 
+    subject: Show me the money!!! 
+    date: 2017-09-30
+
+- author: Gary Alan Howard
+  thesis: 
+  - title: Creating a Software Assembly Line
+    date: 2007-10-01
+    school: Regis University 
+
+  talk: 
+  - title: Establishing Software Metrics
+    date: 2006-09-15
+    venue: 7th Annual Medical Device Conference
+    where: San Diego, California

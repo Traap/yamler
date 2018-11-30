@@ -1,0 +1,44 @@
+name:
+  first: Daryn
+  middle: Amber
+  last: howard
+  address:
+    - street: 500 Harbor Drive
+      unit: 126
+      city: San Diego
+      state: CA
+      zip: 92101
+    - street: 12819 Bloomfield Street 
+      unit: 1/2 
+      city: Studio City 
+      state: CA
+      zip: 91604
+
+favorite_colors:
+  1: Pink
+  2: Red
+  3: Blue
+  4: Black
+
+numbers:
+  zero: 0
+  simple: 12
+  one_thousand: 1,000
+  negative_one: -1
+
+floats:
+  pi: 3.141592
+  diophantine_approximation: 3.142857
+  
+boolean:
+  is_tall: false
+  is_short: true
+
+time:
+    iso8601: 2018-11-24t06:25:30.10-09:00
+    iso8601s: 2018-11-24 06 25:30.10 -09:00
+
+--- !ruby/struct:BookStruct
+  author: Yukihiro Matsumoto
+  title: Ruby in a Nutshell
+  isbn: 0-596-00214-9
