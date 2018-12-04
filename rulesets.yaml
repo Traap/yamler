@@ -15,3 +15,12 @@ ruleset:
         hard upper limit: 1.2
         override soft: true
         override hard: false
+
+  - name: Bolus 
+    limits:
+      - hard lower limit: 1.1
+        soft lower limit: 1.2
+        soft upper limit: 2.0
+        hard upper limit: 2.2
+        override soft: false 
+        override hard: false
